@@ -1,0 +1,16 @@
+user
+
+1 nama : Syaiful Umam
+username: umam
+pass: umam
+level: admin
+
+2. nama : Diki Alfarabi
+username: diki
+pass: diki
+level: pegawai
+
+3. nama: Jamaluddin
+username: jamal
+pass: jamal
+level: pengurus
